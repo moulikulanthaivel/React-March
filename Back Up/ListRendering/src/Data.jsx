@@ -1,4 +1,4 @@
-let Employees = [{"id":1,"name":"Margarita","email":"mpond0@photobucket.com","gender":"Female"},
+let Data = [{"id":1,"name":"Margarita","email":"mpond0@photobucket.com","gender":"Female"},
 {"id":2,"name":"Inga","email":"iallright1@ow.ly","gender":"Female"},
 {"id":3,"name":"Flem","email":"fmeech2@umn.edu","gender":"Male"},
 {"id":4,"name":"Ora","email":"oleemans3@businessweek.com","gender":"Female"},
@@ -98,4 +98,4 @@ let Employees = [{"id":1,"name":"Margarita","email":"mpond0@photobucket.com","ge
 {"id":98,"name":"Norbie","email":"nmorstatt2p@google.ru","gender":"Male"},
 {"id":99,"name":"Janie","email":"jyukhnin2q@mlb.com","gender":"Female"},
 {"id":100,"name":"Denys","email":"dhowison2r@adobe.com","gender":"Male"}]
-export default Employees
+export default Data
