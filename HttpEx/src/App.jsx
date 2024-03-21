@@ -1,11 +1,11 @@
-import Comp2 from "./Comp2"
+import Users from "./Users";
 
-function App(){
-return(<>
-<h1>App</h1>
-<Comp2/>
+let App = ()=>{
+return <div>
+<Users/>
 
 
-</>)
+</div>
+
 }
 export default App;
